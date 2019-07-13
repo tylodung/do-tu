@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /3-nguoi-dep-viet
 title: 3 người đẹp Việt tiết lộ chế độ ăn giảm cân thành công
-image: 'http://tapchitrungnien.com/Data/upload/files/lime-3-co-gai-viet-nam-gay-soc-i-can-see-your-voice-1.jpg' 
+image: 'https://baomoi-photo-1-td.zadn.vn/18/05/21/293/26118670/3_152785.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3

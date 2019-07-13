@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /dang-sau-nhan-sac
 title: Đằng sau nhan sắc cùng khí chất hơn người của Công nương Diana lại là 5 tips làm đẹp đơn giản
-image: 'http://afamilycdn.com/2018/8/15/diana-12-15343255094971884805352.jpg' 
+image: 'https://image.tmdb.org/t/p/w1280//fA7AYUtbAkQb2XTEV57mqHGO6v0.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
