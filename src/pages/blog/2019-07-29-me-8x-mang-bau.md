@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /me-8x-mang-bau
 title: Mẹ 8x mang bầu lần 2 vẫn đẹp rạng ngời, chỉ tăng vỏn vẹn 8kg
-image: 'https://www.beautyvietnam.vn/wp-content/uploads/2018/06/bi-quyet-lam-dep-cua-phu-nu-the-gioi-15.jpg' 
+image: 'https://cdn.pose.com.vn/assets/2019/01/02/maxresdefault.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-23T13:12:33.962Z
+date: 2019-07-29T13:12:33.962Z
 description:
  
 ---

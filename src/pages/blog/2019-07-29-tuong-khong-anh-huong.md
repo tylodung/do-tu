@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /tuong-khong-anh-huong
 title: Thói quen này mỗi sáng dễ khiến da bạn bị lão hóa và bắt nắng hơn
-image: 'http://images.alobacsi.vn/Images/Uploaded/Share/2017/11/27/9f4Nhung-thoi-quen-rua-mat-sai-cach-khien-lan-da-con-gai-xuong-cap-nhanh-chong1.jpg' 
+image: 'https://i.ytimg.com/vi/t-pnkDZfeUI/maxresdefault.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-23T13:12:33.962Z
+date: 2019-07-29T13:12:33.962Z
 description:
  
 ---
