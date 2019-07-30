@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://theki.vn/wp-content/uploads/2018/11/hinh-anh-trai-dat-trong-tri-tuong-tuong-cua-nguoi-co-dai-1280x720.jpg' title="Nữ Thần Mặt Trời" tagline="Bí quyết làm đẹp.." />
+        <Header image='https://data.1freewallpapers.com/download/stars-space-galaxy-1280x720.jpg' title="Nữ Thần Mặt Trời" tagline="Bí quyết làm đẹp.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
